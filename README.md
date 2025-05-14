@@ -26,10 +26,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
+
+###
+<h1>Social Media</h1>
+
 ###
 
 <p align="left">
 
-<a href="https://instagram.com/@lavado_erick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lavado_erick" height="30" width="40" /></a>
+<a> href="https://instagram.com/lavado_erick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lavado_erick" height="30" width="40" /></a>
 
 </p>
