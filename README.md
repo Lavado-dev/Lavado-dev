@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning HTML, CSS and Cpp<br>🎯 Goals: Being proficient in HTML, CSS and Java.<br>🎲 Fun fact: I am very flexible and extroverted. <br>I'm a HQs and Mangas fan, Mainly JoJo's Bizarre Adventures!</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning HTML, CSS and Cpp<br>🎯 Goals: Being proficient in HTML, CSS and Java.<br>🎲 Fun fact: I am very flexible and extroverted. <br>I' also like HQs and Mangas fan, Mainly JoJo's Bizarre Adventures!</p>
 
 ###
 
