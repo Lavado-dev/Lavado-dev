@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning HTML, CSS and Cpp<br>🎯 Goals: Being proficient in HTML, CSS and Java.<br>🎲 Fun fact: I am very flexible and extroverted. <br>I' also like HQs and Mangas fan, Mainly JoJo's Bizarre Adventures!</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning HTML, CSS and Cpp<br>🎯 Goals: Being proficient in HTML, CSS and Java.<br>🎲 Fun fact: I am very flexible and extroverted. <br>I also like HQs and Mangas fan, Mainly JoJo's Bizarre Adventures!</p>
 
 ###
 
@@ -28,13 +28,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
+<p align="left">
 
-###
+<a href="https://instagram.com/@lavado_erick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lavado_erick" height="30" width="40" /></a>
 
-<h3 align="left">Instagram - @lavado_erick<br>Whatsapp - +55 11 91109-7459</h3>
-
-###
+</p>
