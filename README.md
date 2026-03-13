@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Erick Lavado and I'm a coding student from ETEC Rosa Perrone Scavone.</p>
+<p align="left">My name is Erick Lavado and I'm a student from ETEC Rosa Perrone Scavone.</p>
 
 ###
 
